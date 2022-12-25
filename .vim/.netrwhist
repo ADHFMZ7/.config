@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/ahmad/Movies/TV/TV Library.tvlibrary'
+let g:netrw_dirhist_8='/Users/ahmad/Movies/TV'
+let g:netrw_dirhist_7='/Users/ahmad/Movies'
+let g:netrw_dirhist_6='/Users/ahmad'
 let g:netrw_dirhist_5='/Users/ahmad/.vim'
 let g:netrw_dirhist_4='/Users/ahmad/.config'
 let g:netrw_dirhist_3='/Users/ahmad/Documents/exp/experiments/rust/day1/src'
 let g:netrw_dirhist_2='/Users/ahmad/Documents/projects/DumPy/dumpy'
 let g:netrw_dirhist_1='/Users/ahmad/Documents/projects/ml-notebooks'
 let g:netrw_dirhist_0='/Users/ahmad/Documents/projects'
-let g:netrw_dirhist_9='/Users/ahmad/Documents/school/CS240/assignments/assignment-5'
-let g:netrw_dirhist_8='/Users/ahmad/Documents/projects/mips-core/6502'
-let g:netrw_dirhist_7='/Users/ahmad/Documents/projects/mips-core'
-let g:netrw_dirhist_6='/Users/ahmad/Documents/apps/SudokuSolver'
