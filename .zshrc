@@ -16,4 +16,4 @@ unset __conda_setup
 
 eval "$(rbenv init - zsh)"
 
-alias ls="ls --color"
+alias ls="ls -G"
