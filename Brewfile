@@ -50,3 +50,4 @@ cask "bitwarden"
 # Discord
 cask "discord"
 
+
