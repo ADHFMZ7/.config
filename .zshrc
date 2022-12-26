@@ -14,9 +14,10 @@ function git_branch_name()
 setopt prompt_subst
 
 # Config for prompt. PS1 synonym.
-PROMPT='
-%~ $(git_branch_name) 
-%F{red}> %f'
+#PROMPT='
+#%~ $(git_branch_name) 
+#%F{red}> %f'
+PROMPT='%~ $(git_branch_name) %F{red}> %f'
 
 
 
