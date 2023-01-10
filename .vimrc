@@ -7,5 +7,3 @@ set number
 set relativenumber
 set hlsearch
 set ruler
-
-colo gruvbox
