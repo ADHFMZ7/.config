@@ -3,3 +3,7 @@
 	email = ahmadaldasouqi559@gmail.com
 [credential]
 	helper = cache
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
